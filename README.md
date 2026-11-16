@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/homebox?utm_medium=integration&utm_source=button&utm_campaign=homebox)
+
 # HomeBox on Railway
 
 One-click [HomeBox](https://homebox.software) for [Railway](https://railway.com): a self-hosted home inventory for your belongings, their locations, warranties, receipts and maintenance.
