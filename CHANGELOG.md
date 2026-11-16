@@ -2,6 +2,10 @@
 
 Deployers: read this before you apply an update. Back up the `/data` volume first.
 
+## Unreleased (2026-11-16)
+
+- README: added the Deploy on Railway button. No change to the app or the image.
+
 ## 0.27.1 (2026-11-16)
 
 **Breaking or notable changes first**
